@@ -1,0 +1,2 @@
+class MarketingContact < ApplicationRecord
+end

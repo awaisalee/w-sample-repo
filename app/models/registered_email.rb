@@ -1,0 +1,2 @@
+class RegisteredEmail < ApplicationRecord
+end
